@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
- Author: Yousef Yasser
+ Author: franciumm
 
  Input:
 t, time period in 0 years
